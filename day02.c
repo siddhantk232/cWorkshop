@@ -11,6 +11,7 @@
 // 	} else {
 // 		printf("the number is odd");
 // 	}
+//   return 0;
 // }
 
 // int main () {
@@ -24,6 +25,7 @@
 // 	} else {
 // 		printf("well played");
 // 	}
+//   return 0;
 // }
 
 // int main () {
@@ -37,6 +39,7 @@
 // 	} else {
 // 		printf("false");
 // 	}
+//   return 0;
 // }
 
 // int main () {
@@ -50,6 +53,7 @@
 // 	} else {
 // 		printf("a + b = %d", a + b);
 // 	}
+//   return 0;
 // }
 
 int main () {
@@ -63,5 +67,7 @@ int main () {
  	} else {
  		printf("%d %d", a , b);
  	}
+	
+	 return 0;
 
 }

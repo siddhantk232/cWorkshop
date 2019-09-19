@@ -62,10 +62,10 @@ int main () {
 	printf("enter two numbers\n");
 	scanf("%d %d", &a, &b);
 
- 	if (a = >>b) {
+ 	if ((b >> 1) == a{
  		printf("a^b = %d", a ^ b);
  	} else {
- 		printf("%d %d", a , b);
+ 		printf("%d %d", a & b);
  	}
 	
 	 return 0;
